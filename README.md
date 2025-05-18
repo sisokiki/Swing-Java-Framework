@@ -29,6 +29,6 @@ I'm excited to share what I've learned so far! Here's a list of Java Swing topic
   Drag & Drop,
   Key Bindings,
   2D Graphics,
-  2D Animations
+  2D Animations.
 I'll keep updating this repository as I continue learning.
 Feel free to check out my code examples and follow along!
